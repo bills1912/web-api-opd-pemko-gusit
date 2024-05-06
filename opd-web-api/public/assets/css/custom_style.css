@@ -1,0 +1,15 @@
+.json-key {
+    color: brown;
+}
+.json-value {
+    color: navy;
+}
+.json-string {
+    color: olive;
+}
+
+.icon-opd {
+    padding: 0;
+    width: 80px;
+    /* height: 40%; */
+}
